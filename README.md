@@ -1,0 +1,1 @@
+# Slick-slider-plugin-wordpress

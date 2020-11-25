@@ -4,4 +4,5 @@ Wordpress slick slider plugin
 
 1.install plugin inside your wordpress site
 
-use short-code inside your pages
+use [slick_slide] short-code inside your pages
+Use and enjoy
